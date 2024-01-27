@@ -18,7 +18,7 @@ This repository contains an analysis of Spotify song features using the "Spotify
 2. **Top 10 Genres:**
    - A bar chart illustrating the total playtime (`msPlayed`) in the top 10 music genres.
 
- ![Top 10 Popular Genres Bar Chart](popular music.png)
+
 
 3. **Top 10 Artists:**
    - A bar chart showing the total playtime (`msPlayed`) for the top 10 artists.
