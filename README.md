@@ -1,5 +1,5 @@
-# SpotifyAnalysis2022
-# Spotify Data Analysis
+
+# Spotify Data Analysis 2022
 
 ## Introduction
 
@@ -28,7 +28,6 @@ This repository contains an analysis of Spotify song features using the "Spotify
 4. **Top Artist Analysis: RADWIMPS**
    - A bar chart illustrating the total playtime (`msPlayed`) for the top artist RADWIMPS.
 
-   ![Bar Chart of Playtime for Top Artist: RADWIMPS](images/RADWIMPS_top_artist_bar_chart.png)
 
    RADWIMPS stands out as the top artist among others in the dataset. Their songs have been individually analyzed, and below is a list of the top 10 tracks by playtime.
 
