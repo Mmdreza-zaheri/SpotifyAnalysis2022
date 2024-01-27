@@ -4,6 +4,7 @@
 ## Introduction
 
 This repository contains an analysis of Spotify song features using the "Spotify Song Attributes" dataset. The dataset includes diverse information such as genre, energy, loudness, speechiness, duration, tempo, etc.
+You can also view this Jupyter Notebook on my Kaggle profile: [Spotify Song Attributes Analysis](https://www.kaggle.com/code/mohamadrezazaheri/notebookspotify).
 
 ## Dataset
 
@@ -38,6 +39,9 @@ https://www.kaggle.com/datasets/byomokeshsenapati/spotify-song-attributes?rvi=1
 
 6. **Average Song Features by Genre:**
    - A radar chart illustrating the average energy, loudness, speechiness, duration, tempo, and liveness for different music genres.
+
+
+
 
 ## Conclusion
 
